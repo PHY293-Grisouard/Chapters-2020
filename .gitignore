@@ -1,0 +1,13 @@
+*.mp4
+*.pdf
+*.zip
+*.aux
+*.log
+*.bib
+*.tex
+*.html
+*_files
+*.bash
+*.tplx
+*.txt
+*/.ipynb_checkpoints
