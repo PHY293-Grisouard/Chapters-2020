@@ -10,4 +10,11 @@
 *.bash
 *.tplx
 *.txt
+*.el
+*.fdb_latexmk
+*.fls
+*.gz
+auto
+*/auto
+*.pygtex
 */.ipynb_checkpoints
